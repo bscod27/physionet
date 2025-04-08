@@ -1,5 +1,3 @@
-## Vertex Seminar, Bruno T. Scodari
-
 To reproduce this work, unpack the ZIP file and save to a folder path, navigate to the root directory, and download/activate the environment by the following commands: 
 ```
 conda env create -f environment.yml
